@@ -75,7 +75,8 @@ const puppeteer = require('puppeteer');
     // Take screenshot
     await page.screenshot({ 
       path: 'screenshot.png',
-      fullPage: false // Set true if you want the entire webpage (overrides setviewport)
+      fullPage: false, // Set true if you want the entire webpage (overrides setviewport)
+      clip: { x: 0, y: 0, width: 1920, height: 1080 } //Clip if the webpage is way too big (like our example website)
       // Optional: Capture specific area only
       // clip: {
       //   x: 0,
