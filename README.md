@@ -6,7 +6,7 @@ Dynamic-Readme-Images is a template repository that uses GitHub Actions and Pupp
 
 For reference, I've set this repository to fetch an automatic screenshot from [Artificialanalysis.ai](https://artificialanalysis.ai/) (VERY cool website btw) that updates every 24 hours
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kuberwastaken/Dynamic-Readme-Images/main/screenshot.png" alt="Artificialanalysis-auto-update">
+    <img src="https://github.com/Kuberwastaken/Dynamic-Readme-Images/blob/main/screenshot.png" alt="Artificialanalysis-auto-update">
 </p>
 
 ## Setup & Usage
