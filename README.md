@@ -92,4 +92,4 @@ Feel free to add more processing steps (by just uncommenting) in the GitHub Acti
 Contributions are welcome! Since the code is well-commented and modular, you can easily add more if you like :)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/Kuberwastaken/Dynamic-Readme-Images/blob/main/LICENSE) for details.
