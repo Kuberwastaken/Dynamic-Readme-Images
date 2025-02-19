@@ -31,7 +31,7 @@ const puppeteer = require('puppeteer');
     // - 'networkidle0'     : slower, waits for all network activity
     // - 'networkidle2'     : balanced, waits for most content
     await page.goto('https://artificialanalysis.ai/', { 
-      waitUntil: 'domcontentloaded'
+      waitUntil: 'networkidle0'
     });
 
     /* Optional Features (uncomment and customize as needed) */
